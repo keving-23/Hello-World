@@ -1,7 +1,7 @@
 var app = new Vue({
   el: '#app',
   data: {
-    message: 'This is a test for Vue.js'
+    message: 'Hello World - Test for Vue.js'
   }
 })
 
@@ -33,7 +33,7 @@ var app4 = new Vue({
 var app5 = new Vue({
   el: '#app-5',
   data: {
-    message: 'Hello world'
+    message: 'Hello World'
   },
   methods: {
     reverseMessage: function () {
